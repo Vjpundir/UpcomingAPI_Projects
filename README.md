@@ -7,8 +7,10 @@ I'm starting a Rest Assured API Automation project focused on basic-level API te
 ✅ Prerequisites
 **Install Java JDK**
 Make sure Java (JDK 8 or higher) is installed on your system.
+
 **Set Environment Variables**
-Add the Java bin path to the System Environment Variables (JAVA_HOME and PATH).
+Add the Java bin path to the System Environment Variables **(JAVA_HOME and PATH)**.
+
 **Install an IDE**
 You can use:
 Eclipse IDE
